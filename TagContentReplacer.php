@@ -1,4 +1,4 @@
-<?php defined('SYSPATH') or die('No direct script access.');
+<?php
 /*
 AG - 04/04/08
 Class to remove simple tags such as h or div etc and replace the data 
