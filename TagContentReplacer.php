@@ -28,6 +28,7 @@ Class TagContentReplacer
 	//function TagContentReplacer($start_tag, $end_tag, $content, $user_callback, $user_callback_parameters=array())
 	public function __construct()	
 	{
+        //Init func
 		$this->_init();
 	}			
 
